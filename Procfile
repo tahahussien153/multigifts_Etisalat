@@ -1,1 +1,1 @@
-web: gunicorn multigifts:app
+web: python multigifts.py
